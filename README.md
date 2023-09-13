@@ -2,6 +2,14 @@
 
 I'm a developer who dabbles in a little bit of everything!
 
+## Tools of Choice
+
+![C++](https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp&logoColor=239120)
+![CLion](https://img.shields.io/badge/-CLion-purple?style=for-the-badge&logo=clion&logoColor=black)
+
+
 ## Lifetime GitHub Stats
 
 <p align="center">
