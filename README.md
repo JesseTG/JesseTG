@@ -6,7 +6,7 @@ I'm a developer who dabbles in a little bit of everything!
 
 <p align="center">
 <a href="https://github.com/JesseTG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesseTG&show_icons=true&theme=transparent&include_all_commits=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesseTG&show_icons=true&theme=transparent&include_all_commits=true&layout=compact&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesseTG&layout=donut&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 </p>
