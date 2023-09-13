@@ -8,7 +8,7 @@ I'm a developer who dabbles in a little bit of everything!
   <img height="200" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JesseTG&show_icons=true&theme=transparent&include_all_commits=true"/>
 </a>
 <a href="https://github.com/JesseTG">
-  <img heught="200" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesseTG&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
+  <img height="200" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JesseTG&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 
 
