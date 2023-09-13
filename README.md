@@ -28,6 +28,12 @@ I'm a developer who dabbles in a little bit of everything!
 ![Java](https://img.shields.io/badge/-Java-purple?style=for-the-badge&logo=openjdk&logoColor=437291)
 ![CSS](https://img.shields.io/badge/-CSS-purple?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.net&logoColor=512BD4)
+![SVG](https://img.shields.io/badge/-SVG-purple?style=for-the-badge&logo=svg&logoColor=FFB13B)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-purple?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-purple?style=for-the-badge&logo=github&logoColor=2088FF)
+![Lua](https://img.shields.io/badge/-Lua-purple?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![Rust](https://img.shields.io/badge/-Rust-purple?style=for-the-badge&logo=rust&logoColor=000000)
+![Jekyll](https://img.shields.io/badge/-Jekyll-purple?style=for-the-badge&logo=jekyll&logoColor=CC0000)
 
 ## Lifetime GitHub Stats
 
