@@ -1,4 +1,4 @@
-# I'm Jesse Talavera-Greenberg.
+# I'm Jesse Talavera.
 
 I love building things in native code (C, C++, Rust) that bring people joy.
 Usually that involves something related to games,
